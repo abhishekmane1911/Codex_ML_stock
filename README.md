@@ -1,6 +1,6 @@
 # Stock Market Screener
 
-This project is a Python-based Stock Market Screener that allows users to analyze historical stock price data and visualize it through interactive graphs. The application integrates a Flask web interface for user interaction and modern aesthetics for ease of use.
+This project is a Python-based Stock Market Screener that allows users to analyze historical stock price data and visualize it through interactive graphs. The application integrates a Flask web interface for user interaction and modern aesthetics for ease of use. The generated images of stock screener get saved in static folder
 
 ## Features
 
