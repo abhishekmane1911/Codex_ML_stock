@@ -34,7 +34,7 @@ Run the following command to clone the project:
 
 ```bash
  git clone https://github.com/abhishekmane1911/Codex_ML_stock
- cd project-folder
+ cd Codex_ML_stock
 ```
 ### Run the Application
 
