@@ -61,11 +61,6 @@ The following Python libraries are required for the project:
 - Matplotlib
 - pandas
 
-Install all dependencies using this command:
-
-```bash
-pip install -r requirements.txt
-```
 ## Known Issues
 
 - Ensure that the stock ticker symbol entered is correct.
