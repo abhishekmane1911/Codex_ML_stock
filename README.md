@@ -33,7 +33,7 @@ Follow these steps to set up the project on your local machine:
 Run the following command to clone the project:
 
 ```bash
- git clone <repository-URL>
+ git clone https://github.com/abhishekmane1911/Codex_ML_stock
  cd project-folder
 ```
 ### Run the Application
